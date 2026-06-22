@@ -18,7 +18,7 @@
 
 NiKo，原名 Nikola Kovač，来自波斯尼亚和黑塞哥维那
 
-2015年 加入 **mousesports** 后，他开始进入国际观众的视野
+2015年 加入 **mousesports** 后，他开始进入观众的视野
 
 那时的 CS 世界仍属于 fnatic、Virtus.pro、Na'Vi 和 Astralis 等豪门
 
@@ -42,9 +42,9 @@ NiKo，原名 Nikola Kovač，来自波斯尼亚和黑塞哥维那
 
 ## 第二章：银河战舰与波士顿的遗憾
 
-2017年，FaZe Clan 向他抛出了橄榄枝
+2017年，FaZe 向他抛出了橄榄枝
 
-这是当时 Counter-Strike 最豪华的阵容之一
+这是当时CS战队最豪华的阵容之一
 
 karrigan、GuardiaN、olofmeister、rain、NiKo
 
@@ -114,7 +114,7 @@ MVP 越来越多
 
 **2021年 斯德哥尔摩Major**
 
-G2 Esports 打进决赛
+G2 打进决赛
 
 这是 Major 回归线下时代后的第一场盛会
 
